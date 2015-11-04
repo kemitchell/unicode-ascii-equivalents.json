@@ -4,5 +4,8 @@
   "description": "ASCII replacements for Unicode characters",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "repository": "kemitchell/unicode-ascii-equivalents.json",
-  "license": "CC0-1.0"
+  "license": "CC0-1.0",
+  "scripts": {
+    "test": "node test.js"
+  }
 }
