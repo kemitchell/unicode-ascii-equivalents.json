@@ -1,141 +1,237 @@
-[ { "comment": "left single quotation mark",
+[
+  {
+    "comment": "left single quotation mark",
     "unicode": "‘",
-    "ascii": "'" },
-  { "comment": "right single quotation mark",
+    "ascii": "'"
+  },
+  {
+    "comment": "right single quotation mark",
     "unicode": "’",
-    "ascii": "'" },
-  { "comment": "prime",
+    "ascii": "'"
+  },
+  {
+    "comment": "prime",
     "unicode": "′",
-    "ascii": "'" },
-  { "comment": "left double quotation mark",
+    "ascii": "'"
+  },
+  {
+    "comment": "left double quotation mark",
     "unicode": "“",
-    "ascii": "\"" },
-  { "comment": "right double quotation mark",
+    "ascii": "\""
+  },
+  {
+    "comment": "right double quotation mark",
     "unicode": "”",
-    "ascii": "\"" },
-  { "comment": "double prime",
+    "ascii": "\""
+  },
+  {
+    "comment": "double prime",
     "unicode": "″",
-    "ascii": "\"" },
-  { "comment": "horizontal ellipsis",
+    "ascii": "\""
+  },
+  {
+    "comment": "horizontal ellipsis",
     "unicode": "…",
-    "ascii": "..." },
-  { "comment": "em-dash",
+    "ascii": "..."
+  },
+  {
+    "comment": "em-dash",
     "unicode": "—",
-    "ascii": "---" },
-  { "comment": "en-dash",
+    "ascii": "---"
+  },
+  {
+    "comment": "en-dash",
     "unicode": "–",
-    "ascii": "--" },
-  { "comment": "figure dash",
+    "ascii": "--"
+  },
+  {
+    "comment": "figure dash",
     "unicode": "‒",
-    "ascii": "-" },
-  { "comment": "no-break space",
+    "ascii": "-"
+  },
+  {
+    "comment": "no-break space",
     "unicode": " ",
-    "ascii": " " },
-  { "comment": "figure space",
+    "ascii": " "
+  },
+  {
+    "comment": "figure space",
     "unicode": " ",
-    "ascii": " " },
-  { "comment": "en quad",
+    "ascii": " "
+  },
+  {
+    "comment": "en quad",
     "unicode": " ",
-    "ascii": " " },
-  { "comment": "em quad",
+    "ascii": " "
+  },
+  {
+    "comment": "em quad",
     "unicode": " ",
-    "ascii": " " },
-  { "comment": "en space",
+    "ascii": " "
+  },
+  {
+    "comment": "en space",
     "unicode": " ",
-    "ascii": " " },
-  { "comment": "em space",
+    "ascii": " "
+  },
+  {
+    "comment": "em space",
     "unicode": " ",
-    "ascii": " " },
-  { "comment": "three-per-em space",
+    "ascii": " "
+  },
+  {
+    "comment": "three-per-em space",
     "unicode": " ",
-    "ascii": " " },
-  { "comment": "four-per-em space",
+    "ascii": " "
+  },
+  {
+    "comment": "four-per-em space",
     "unicode": " ",
-    "ascii": " " },
-  { "comment": "six-per-em space",
+    "ascii": " "
+  },
+  {
+    "comment": "six-per-em space",
     "unicode": " ",
-    "ascii": " " },
-  { "comment": "punctuation space",
+    "ascii": " "
+  },
+  {
+    "comment": "punctuation space",
     "unicode": " ",
-    "ascii": " " },
-  { "comment": "thin space",
+    "ascii": " "
+  },
+  {
+    "comment": "thin space",
     "unicode": " ",
-    "ascii": " " },
-  { "comment": "hair space",
+    "ascii": " "
+  },
+  {
+    "comment": "hair space",
     "unicode": " ",
-    "ascii": " " },
-  { "comment": "meedium mathematical space",
+    "ascii": " "
+  },
+  {
+    "comment": "meedium mathematical space",
     "unicode": " ",
-    "ascii": " " },
-  { "comment": "narrow no-break space",
+    "ascii": " "
+  },
+  {
+    "comment": "narrow no-break space",
     "unicode": " ",
-    "ascii": " " },
-  { "comment": "copyright sign",
+    "ascii": " "
+  },
+  {
+    "comment": "copyright sign",
     "unicode": "©",
-    "ascii": "(C)" },
-  { "comment": "sound recording copyright symbol",
+    "ascii": "(C)"
+  },
+  {
+    "comment": "sound recording copyright symbol",
     "unicode": "ⓟ",
-    "ascii": "(P)" },
-  { "comment": "registered sign",
+    "ascii": "(P)"
+  },
+  {
+    "comment": "registered sign",
     "unicode": "®",
-    "ascii": "(R)" },
-  { "comment": "service mark",
+    "ascii": "(R)"
+  },
+  {
+    "comment": "service mark",
     "unicode": "℠",
-    "ascii": "(SM)" },
-  { "comment": "trademark sign",
+    "ascii": "(SM)"
+  },
+  {
+    "comment": "trademark sign",
     "unicode": "™",
-    "ascii": "(TM)" },
-  { "comment": "vulgar faction one quarter",
+    "ascii": "(TM)"
+  },
+  {
+    "comment": "vulgar faction one quarter",
     "unicode": "¼",
-    "ascii": "1/4" },
-  { "comment": "vulgar faction one half",
+    "ascii": "1/4"
+  },
+  {
+    "comment": "vulgar faction one half",
     "unicode": "½",
-    "ascii": "1/2" },
-  { "comment": "vulgar faction three quarters",
+    "ascii": "1/2"
+  },
+  {
+    "comment": "vulgar faction three quarters",
     "unicode": "¾",
-    "ascii": "3/4" },
-  { "comment": "vulgar fraction one seventh",
+    "ascii": "3/4"
+  },
+  {
+    "comment": "vulgar fraction one seventh",
     "unicode": "⅐",
-    "ascii": "1/7" },
-  { "comment": "vulgar fraction one ninth",
+    "ascii": "1/7"
+  },
+  {
+    "comment": "vulgar fraction one ninth",
     "unicode": "⅑",
-    "ascii": "1/9" },
-  { "comment": "vulgar fraction one tenth",
+    "ascii": "1/9"
+  },
+  {
+    "comment": "vulgar fraction one tenth",
     "unicode": "⅒",
-    "ascii": "1/10" },
-  { "comment": "vulgar fraction one third",
+    "ascii": "1/10"
+  },
+  {
+    "comment": "vulgar fraction one third",
     "unicode": "⅓",
-    "ascii": "1/3" },
-  { "comment": "vulgar fraction two thirds",
+    "ascii": "1/3"
+  },
+  {
+    "comment": "vulgar fraction two thirds",
     "unicode": "⅔",
-    "ascii": "2/3" },
-  { "comment": "vulgar fraction one fifth",
+    "ascii": "2/3"
+  },
+  {
+    "comment": "vulgar fraction one fifth",
     "unicode": "⅕",
-    "ascii": "1/5" },
-  { "comment": "vulgar fraction two fifths",
+    "ascii": "1/5"
+  },
+  {
+    "comment": "vulgar fraction two fifths",
     "unicode": "⅖",
-    "ascii": "2/5" },
-  { "comment": "vulgar fraction three fifths",
+    "ascii": "2/5"
+  },
+  {
+    "comment": "vulgar fraction three fifths",
     "unicode": "⅗",
-    "ascii": "3/5" },
-  { "comment": "vulgar fraction four fifths",
+    "ascii": "3/5"
+  },
+  {
+    "comment": "vulgar fraction four fifths",
     "unicode": "⅘",
-    "ascii": "4/5" },
-  { "comment": "vulgar fraction one sixth",
+    "ascii": "4/5"
+  },
+  {
+    "comment": "vulgar fraction one sixth",
     "unicode": "⅙",
-    "ascii": "1/6" },
-  { "comment": "vulgar fraction five sixths",
+    "ascii": "1/6"
+  },
+  {
+    "comment": "vulgar fraction five sixths",
     "unicode": "⅚",
-    "ascii": "5/6" },
-  { "comment": "vulgar fraction one eighth",
+    "ascii": "5/6"
+  },
+  {
+    "comment": "vulgar fraction one eighth",
     "unicode": "⅛",
-    "ascii": "1/8" },
-  { "comment": "vulgar fraction three eighths",
+    "ascii": "1/8"
+  },
+  {
+    "comment": "vulgar fraction three eighths",
     "unicode": "⅜",
-    "ascii": "3/8" },
-  { "comment": "vulgar fraction five eighths",
+    "ascii": "3/8"
+  },
+  {
+    "comment": "vulgar fraction five eighths",
     "unicode": "⅝",
-    "ascii": "5/8" },
-  { "comment": "vulgar fraction seven eighths",
+    "ascii": "5/8"
+  },
+  {
+    "comment": "vulgar fraction seven eighths",
     "unicode": "⅞",
-    "ascii": "7/8" } ]
+    "ascii": "7/8"
+  }
+]
