@@ -25,6 +25,26 @@
     "ascii": "\""
   },
   {
+    "command": "left guillemet",
+    "unicode": "«",
+    "ascii": "<<"
+  },
+  {
+    "command": "right guillemet",
+    "unicode": "»",
+    "ascii": ">>"
+  },
+  {
+    "command": "left single guillemet",
+    "unicode": "‹",
+    "ascii": "<"
+  },
+  {
+    "command": "right single guillemet",
+    "unicode": "›",
+    "ascii": ">"
+  },
+  {
     "comment": "double prime",
     "unicode": "″",
     "ascii": "\""
