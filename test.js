@@ -1,20 +1,24 @@
-var data = require('./')
+const data = require('./')
 
-var characters = [ ]
+const characters = []
 
-data.forEach(function(element) {
-  var character = element.unicode
+data.forEach(function (element) {
+  const character = element.unicode
   if (characters.indexOf(character) > -1) {
     throw new Error(
-      'Already defined "' + character + '" '+
-        '(x' + character.charCodeAt(0).toString(16)  + ')') }
-  else {
-    characters.push(character) }})
+      'Already defined "' + character + '" ' +
+        '(x' + character.charCodeAt(0).toString(16) + ')')
+  } else {
+    characters.push(character)
+  }
+})
 
-var NON_ASCII_PRINTABLE = /[^\x20-\x7E]/
+const NON_ASCII_PRINTABLE = /[^\x20-\x7E]/
 
-data.forEach(function(element) {
-  var replacement = element.ascii
+data.forEach(function (element) {
+  const replacement = element.ascii
   if (NON_ASCII_PRINTABLE.test(replacement)) {
     throw new Error(
-      replacement + ' contains a non-ASCII printable character') } })
+      replacement + ' contains a non-ASCII printable character')
+  }
+})
